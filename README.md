@@ -8,7 +8,7 @@
 * Added main tag to Hero image.
 * Added section tags under main tag.  Changed class to departments to reduce redundancy on CSS style sheet.
 * Added aside tag and changed class to benefits to reduce redundancy on CSS style sheet.
-* Add footer tag.
+* Added footer tag.
 ## CSS code changes employed to reduce excessive styling used and redundancy.
 * Changed class to .benefits to reduce 3 portions of css styling.
 * Changed class to .benefits h3 to reduce 3 portions of css styling.
@@ -21,7 +21,6 @@
 https://spaulsen-creator.github.io/01-HTML-CSS-GIT--CODE-REFACTOR/
 
 https://github.com/spaulsen-creator/01-HTML-CSS-GIT--CODE-REFACTOR
-## Screenshot
 
 
 

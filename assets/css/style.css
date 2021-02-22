@@ -57,7 +57,6 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    /* OK,  not part of content*/
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
@@ -78,7 +77,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/* ???removed benefits- changed to aside*/
+
 .benefit {
     margin-right: 20px;
     padding: 20px;
